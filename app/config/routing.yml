@@ -1,0 +1,7 @@
+еуfrolikov_igor_test:
+    resource: "@еуFrolikovIgorTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
