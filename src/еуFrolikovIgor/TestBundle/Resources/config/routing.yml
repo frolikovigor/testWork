@@ -1,7 +1,3 @@
-еуfrolikov_igor_test_homepage:
-    path:     /
-    defaults: { _controller: еуFrolikovIgorTestBundle:Default:index }
-
-еуfrolikov_igor_test_contacts:
+еуfrolikov_igor_test_work:
     path:     /helloworld/{name}/
     defaults: { _controller: еуFrolikovIgorTestBundle:Helloworld:index }
